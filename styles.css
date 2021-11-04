@@ -1,0 +1,90 @@
+body {
+  background-color: darkslategrey;
+  text-align: center;
+  font-family: Kumbh Sans
+}
+
+.structure {
+  background-color: rgb(255, 255, 255);
+  display: inline-block;
+  margin-top: 15%;
+  margin-bottom: 0px;
+  border-radius: 15px ;
+
+}
+
+.pic {
+  display: block;
+  position: relative;
+  left: 35%;
+  bottom: 55px;
+  margin-bottom: 0;
+  border: solid white;
+  border-radius: 50%;
+}
+
+.back-pic {
+  border-radius: 15px 15px 0 0;
+}
+
+.name {
+  position: relative;
+  bottom: 55px;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+
+  font-size: 1.125rem;
+}
+
+.age {
+  display: inline-block;
+  color: hsl(227, 10%, 46%);
+}
+
+.location {
+  position: relative;
+  bottom: 85px;
+  margin-top: 0;
+  color: hsl(227, 10%, 46%);
+}
+
+.popularity {
+  position: relative;
+  bottom: 65px;
+  height: 20px;
+  
+  font-size: 1.125;
+}
+
+.stats {
+  display: inline-block;
+  margin-top: 0;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 0;
+}
+
+.followers {
+  position: relative;
+  right: 30%;
+  bottom: 10px;
+  margin-bottom: 0;
+  color: hsl(227, 10%, 46%);
+}
+
+.likes {
+  position: relative;
+  bottom: 46px;
+  right: 3px;
+  margin-bottom: 0;
+  color: hsl(227, 10%, 46%);
+}
+
+.photos {
+  position: relative;
+  left: 30%;
+  bottom: 82px;
+  margin-bottom: 0;
+  color: hsl(227, 10%, 46%);
+}
